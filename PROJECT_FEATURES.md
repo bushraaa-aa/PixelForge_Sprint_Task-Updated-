@@ -22,3 +22,4 @@ Adds a chart widget to the dashboard summarising tasks completed per week.
 Corrects the login form to show 'Incorrect email or password' instead of a raw server error code.
 
 **Status: Fixed**
+<!-- Reviewed by Ishrat Jahan (Integration Lead) -->
